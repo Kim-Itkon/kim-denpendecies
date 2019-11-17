@@ -13,7 +13,7 @@
     <artifactId>kim-denpendecies</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-
+    <name>kim-denpendecies</name>
 
     <properties>
         <!-- Environment Settings -->
